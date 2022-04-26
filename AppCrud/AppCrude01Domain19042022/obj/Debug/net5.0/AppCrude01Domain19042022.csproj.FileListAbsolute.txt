@@ -1,0 +1,12 @@
+C:\Users\1920478300002\source\repos\Aula19042022\AppCrude01Domain19042022\bin\Debug\net5.0\AppCrude01Domain19042022.deps.json
+C:\Users\1920478300002\source\repos\Aula19042022\AppCrude01Domain19042022\bin\Debug\net5.0\AppCrude01Domain19042022.dll
+C:\Users\1920478300002\source\repos\Aula19042022\AppCrude01Domain19042022\bin\Debug\net5.0\ref\AppCrude01Domain19042022.dll
+C:\Users\1920478300002\source\repos\Aula19042022\AppCrude01Domain19042022\bin\Debug\net5.0\AppCrude01Domain19042022.pdb
+C:\Users\1920478300002\source\repos\Aula19042022\AppCrude01Domain19042022\obj\Debug\net5.0\AppCrude01Domain19042022.csproj.AssemblyReference.cache
+C:\Users\1920478300002\source\repos\Aula19042022\AppCrude01Domain19042022\obj\Debug\net5.0\AppCrude01Domain19042022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1920478300002\source\repos\Aula19042022\AppCrude01Domain19042022\obj\Debug\net5.0\AppCrude01Domain19042022.AssemblyInfoInputs.cache
+C:\Users\1920478300002\source\repos\Aula19042022\AppCrude01Domain19042022\obj\Debug\net5.0\AppCrude01Domain19042022.AssemblyInfo.cs
+C:\Users\1920478300002\source\repos\Aula19042022\AppCrude01Domain19042022\obj\Debug\net5.0\AppCrude01Domain19042022.csproj.CoreCompileInputs.cache
+C:\Users\1920478300002\source\repos\Aula19042022\AppCrude01Domain19042022\obj\Debug\net5.0\AppCrude01Domain19042022.dll
+C:\Users\1920478300002\source\repos\Aula19042022\AppCrude01Domain19042022\obj\Debug\net5.0\ref\AppCrude01Domain19042022.dll
+C:\Users\1920478300002\source\repos\Aula19042022\AppCrude01Domain19042022\obj\Debug\net5.0\AppCrude01Domain19042022.pdb
