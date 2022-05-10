@@ -1,0 +1,12 @@
+D:\VsCommunity\WebApp\AppExAluno01\AppExAluno01.Application\bin\Debug\net6.0\AppExAluno01.Application.deps.json
+D:\VsCommunity\WebApp\AppExAluno01\AppExAluno01.Application\bin\Debug\net6.0\AppExAluno01.Application.dll
+D:\VsCommunity\WebApp\AppExAluno01\AppExAluno01.Application\bin\Debug\net6.0\AppExAluno01.Application.pdb
+D:\VsCommunity\WebApp\AppExAluno01\AppExAluno01.Application\obj\Debug\net6.0\AppExAluno01.Application.csproj.AssemblyReference.cache
+D:\VsCommunity\WebApp\AppExAluno01\AppExAluno01.Application\obj\Debug\net6.0\AppExAluno01.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsCommunity\WebApp\AppExAluno01\AppExAluno01.Application\obj\Debug\net6.0\AppExAluno01.Application.AssemblyInfoInputs.cache
+D:\VsCommunity\WebApp\AppExAluno01\AppExAluno01.Application\obj\Debug\net6.0\AppExAluno01.Application.AssemblyInfo.cs
+D:\VsCommunity\WebApp\AppExAluno01\AppExAluno01.Application\obj\Debug\net6.0\AppExAluno01.Application.csproj.CoreCompileInputs.cache
+D:\VsCommunity\WebApp\AppExAluno01\AppExAluno01.Application\obj\Debug\net6.0\AppExAluno01.Application.dll
+D:\VsCommunity\WebApp\AppExAluno01\AppExAluno01.Application\obj\Debug\net6.0\refint\AppExAluno01.Application.dll
+D:\VsCommunity\WebApp\AppExAluno01\AppExAluno01.Application\obj\Debug\net6.0\AppExAluno01.Application.pdb
+D:\VsCommunity\WebApp\AppExAluno01\AppExAluno01.Application\obj\Debug\net6.0\ref\AppExAluno01.Application.dll
