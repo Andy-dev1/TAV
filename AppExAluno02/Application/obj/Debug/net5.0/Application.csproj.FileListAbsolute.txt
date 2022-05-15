@@ -1,0 +1,12 @@
+C:\Users\1920478300002\source\repos\AppExEscola01\Application\bin\Debug\net5.0\Application.deps.json
+C:\Users\1920478300002\source\repos\AppExEscola01\Application\bin\Debug\net5.0\Application.dll
+C:\Users\1920478300002\source\repos\AppExEscola01\Application\bin\Debug\net5.0\ref\Application.dll
+C:\Users\1920478300002\source\repos\AppExEscola01\Application\bin\Debug\net5.0\Application.pdb
+C:\Users\1920478300002\source\repos\AppExEscola01\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+C:\Users\1920478300002\source\repos\AppExEscola01\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1920478300002\source\repos\AppExEscola01\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Users\1920478300002\source\repos\AppExEscola01\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Users\1920478300002\source\repos\AppExEscola01\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\1920478300002\source\repos\AppExEscola01\Application\obj\Debug\net5.0\Application.dll
+C:\Users\1920478300002\source\repos\AppExEscola01\Application\obj\Debug\net5.0\ref\Application.dll
+C:\Users\1920478300002\source\repos\AppExEscola01\Application\obj\Debug\net5.0\Application.pdb
