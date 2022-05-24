@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D6gCYycZoPw1PKD2l7E+QJQrR6yNmLw/ZOrIcMSYJNkKt9fNz1DWtlQ01gZzkGoqdK+TddBDgCkiqHNVZaSJQQ==",
+  "success": true,
+  "projectFilePath": "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Application\\TrabAppEscolaDDD.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Domain.Services\bin\Debug\net5.0\TrabAppEscolaDDD.Domain.Services.deps.json
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Domain.Services\bin\Debug\net5.0\TrabAppEscolaDDD.Domain.Services.dll
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Domain.Services\bin\Debug\net5.0\TrabAppEscolaDDD.Domain.Services.pdb
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Domain.Services\bin\Debug\net5.0\TrabAppEscolaDDD.Domain.Core.dll
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Domain.Services\bin\Debug\net5.0\TrabAppEscolaDDD.Domain.dll
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Domain.Services\bin\Debug\net5.0\TrabAppEscolaDDD.Domain.Core.pdb
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Domain.Services\bin\Debug\net5.0\TrabAppEscolaDDD.Domain.pdb
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Domain.Services\obj\Debug\net5.0\TrabAppEscolaDDD.Domain.Services.csproj.AssemblyReference.cache
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Domain.Services\obj\Debug\net5.0\TrabAppEscolaDDD.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Domain.Services\obj\Debug\net5.0\TrabAppEscolaDDD.Domain.Services.AssemblyInfoInputs.cache
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Domain.Services\obj\Debug\net5.0\TrabAppEscolaDDD.Domain.Services.AssemblyInfo.cs
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Domain.Services\obj\Debug\net5.0\TrabAppEscolaDDD.Domain.Services.csproj.CoreCompileInputs.cache
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Domain.Services\obj\Debug\net5.0\TrabAppEscolaDDD.Domain.Services.csproj.CopyComplete
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Domain.Services\obj\Debug\net5.0\TrabAppEscolaDDD.Domain.Services.dll
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Domain.Services\obj\Debug\net5.0\refint\TrabAppEscolaDDD.Domain.Services.dll
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Domain.Services\obj\Debug\net5.0\TrabAppEscolaDDD.Domain.Services.pdb
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Domain.Services\obj\Debug\net5.0\ref\TrabAppEscolaDDD.Domain.Services.dll

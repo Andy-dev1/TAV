@@ -1,0 +1,17 @@
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Infra\bin\Debug\net5.0\TrabAppEscolaDDD.Infra.deps.json
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Infra\bin\Debug\net5.0\TrabAppEscolaDDD.Infra.dll
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Infra\bin\Debug\net5.0\TrabAppEscolaDDD.Infra.pdb
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Infra\bin\Debug\net5.0\TrabAppEscolaDDD.Domain.Core.dll
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Infra\bin\Debug\net5.0\TrabAppEscolaDDD.Domain.dll
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Infra\bin\Debug\net5.0\TrabAppEscolaDDD.Domain.Core.pdb
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Infra\bin\Debug\net5.0\TrabAppEscolaDDD.Domain.pdb
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Infra\obj\Debug\net5.0\TrabAppEscolaDDD.Infra.csproj.AssemblyReference.cache
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Infra\obj\Debug\net5.0\TrabAppEscolaDDD.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Infra\obj\Debug\net5.0\TrabAppEscolaDDD.Infra.AssemblyInfoInputs.cache
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Infra\obj\Debug\net5.0\TrabAppEscolaDDD.Infra.AssemblyInfo.cs
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Infra\obj\Debug\net5.0\TrabAppEscolaDDD.Infra.csproj.CoreCompileInputs.cache
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Infra\obj\Debug\net5.0\TrabAppEscolaDDD.Infra.csproj.CopyComplete
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Infra\obj\Debug\net5.0\TrabAppEscolaDDD.Infra.dll
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Infra\obj\Debug\net5.0\refint\TrabAppEscolaDDD.Infra.dll
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Infra\obj\Debug\net5.0\TrabAppEscolaDDD.Infra.pdb
+D:\VsCommunity\WebApp\TrabAppEscolaDDD\TrabAppEscolaDDD.Infra\obj\Debug\net5.0\ref\TrabAppEscolaDDD.Infra.dll

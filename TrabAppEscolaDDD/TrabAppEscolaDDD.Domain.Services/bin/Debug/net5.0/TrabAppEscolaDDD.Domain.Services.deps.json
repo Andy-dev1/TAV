@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TrabAppEscolaDDD.Domain.Services/1.0.0": {
+        "dependencies": {
+          "TrabAppEscolaDDD.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "TrabAppEscolaDDD.Domain.Services.dll": {}
+        }
+      },
+      "TrabAppEscolaDDD.Domain/1.0.0": {
+        "runtime": {
+          "TrabAppEscolaDDD.Domain.dll": {}
+        }
+      },
+      "TrabAppEscolaDDD.Domain.Core/1.0.0": {
+        "dependencies": {
+          "TrabAppEscolaDDD.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TrabAppEscolaDDD.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrabAppEscolaDDD.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TrabAppEscolaDDD.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TrabAppEscolaDDD.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

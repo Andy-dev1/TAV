@@ -1,0 +1,258 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Test\\TrabAppEscolaDDD.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Application\\TrabAppEscolaDDD.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Application\\TrabAppEscolaDDD.Application.csproj",
+        "projectName": "TrabAppEscolaDDD.Application",
+        "projectPath": "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Application\\TrabAppEscolaDDD.Application.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Domain.Core\\TrabAppEscolaDDD.Domain.Core.csproj": {
+                "projectPath": "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Domain.Core\\TrabAppEscolaDDD.Domain.Core.csproj"
+              },
+              "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Domain\\TrabAppEscolaDDD.Domain.csproj": {
+                "projectPath": "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Domain\\TrabAppEscolaDDD.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Domain.Core\\TrabAppEscolaDDD.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Domain.Core\\TrabAppEscolaDDD.Domain.Core.csproj",
+        "projectName": "TrabAppEscolaDDD.Domain.Core",
+        "projectPath": "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Domain.Core\\TrabAppEscolaDDD.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Domain\\TrabAppEscolaDDD.Domain.csproj": {
+                "projectPath": "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Domain\\TrabAppEscolaDDD.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Domain\\TrabAppEscolaDDD.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Domain\\TrabAppEscolaDDD.Domain.csproj",
+        "projectName": "TrabAppEscolaDDD.Domain",
+        "projectPath": "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Domain\\TrabAppEscolaDDD.Domain.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Test\\TrabAppEscolaDDD.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Test\\TrabAppEscolaDDD.Test.csproj",
+        "projectName": "TrabAppEscolaDDD.Test",
+        "projectPath": "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Test\\TrabAppEscolaDDD.Test.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Application\\TrabAppEscolaDDD.Application.csproj": {
+                "projectPath": "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Application\\TrabAppEscolaDDD.Application.csproj"
+              },
+              "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Domain.Core\\TrabAppEscolaDDD.Domain.Core.csproj": {
+                "projectPath": "D:\\VsCommunity\\WebApp\\TrabAppEscolaDDD\\TrabAppEscolaDDD.Domain.Core\\TrabAppEscolaDDD.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
