@@ -1,0 +1,17 @@
+C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\bin\Debug\net5.0\LojaoBazarDDD.Application.deps.json
+C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\bin\Debug\net5.0\LojaoBazarDDD.Application.dll
+C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\bin\Debug\net5.0\LojaoBazarDDD.Application.pdb
+C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\bin\Debug\net5.0\LojaoBazarDDD.Domain.Core.dll
+C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\bin\Debug\net5.0\LojaoBazarDDD.Domain.dll
+C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\bin\Debug\net5.0\LojaoBazarDDD.Domain.Core.pdb
+C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\bin\Debug\net5.0\LojaoBazarDDD.Domain.pdb
+C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\LojaoBazarDDD.Application.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\LojaoBazarDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\LojaoBazarDDD.Application.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\LojaoBazarDDD.Application.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\LojaoBazarDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\LojaoBazarDDD.Application.csproj.CopyComplete
+C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\LojaoBazarDDD.Application.dll
+C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\refint\LojaoBazarDDD.Application.dll
+C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\LojaoBazarDDD.Application.pdb
+C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\ref\LojaoBazarDDD.Application.dll

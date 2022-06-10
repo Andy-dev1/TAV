@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "43eJB/2bYaZkHPyMTMXfEYsTy/Od5ZZ8mwDcgtTkxiPoJc0MhCPJDdjCw3NRogz4Zuar3yqxC9/FAScTEg10rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Application\\LojaoBazarDDD.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
