@@ -16,7 +16,7 @@ using Xunit;
 namespace LojaoBazarDDD.Tests
 {
 
-    public class ApplicationServiceAlunoTest
+    public class ApplicationServiceClienteTest
     {
 
         private static Fixture _fixture;
@@ -32,11 +32,11 @@ namespace LojaoBazarDDD.Tests
             _serviceClienteMock = new Mock<IServiceCliente>();
             _mapperMock = new Mock<IMapper>();
 
-            var alunos = _fixture.Build<Cliente>().CreateMany(5);
-            var alunosDto = _fixture.Build<ClienteDto>().CreateMany(5);
+            var clientes = _fixture.Build<Cliente>().CreateMany(5);
+            var clientesDto = _fixture.Build<ClienteDto>().CreateMany(5);
 
-            _serviceClienteMock.Setup(x => x.PegarTodos()).Returns(alunos);
-            _mapperMock.Setup(x => x.Map<IEnumerable<ClienteDto>>(alunos)).Returns(alunosDto);
+            _serviceClienteMock.Setup(x => x.PegarTodos()).Returns(clientes);
+            _mapperMock.Setup(x => x.Map<IEnumerable<ClienteDto>>(clientes)).Returns(clientesDto);
 
             var applicationServiceAluno = new ApplicationServiceCliente(_serviceClienteMock.Object, _mapperMock.Object);
 
@@ -62,18 +62,18 @@ namespace LojaoBazarDDD.Tests
             //Arrange
             const int id = 10;
 
-            var aluno = _fixture.Build<Cliente>()
+            var cliente = _fixture.Build<Cliente>()
                 .With(c => c.Id, id)
                 .With(c => c.Email, "teste1@teste.com.br")
                 .Create();
 
-            var alunoDto = _fixture.Build<ClienteDto>()
+            var clienteDto = _fixture.Build<ClienteDto>()
                 .With(c => c.Id, id)
                 .With(c => c.Email, "teste1@teste.com.br")
                 .Create();
 
-            _serviceClienteMock.Setup(x => x.PegarPorID(id)).Returns(aluno);
-            _mapperMock.Setup(x => x.Map<ClienteDto>(aluno)).Returns(alunoDto);
+            _serviceClienteMock.Setup(x => x.PegarPorID(id)).Returns(cliente);
+            _mapperMock.Setup(x => x.Map<ClienteDto>(cliente)).Returns(clienteDto);
 
             var applicationServiceCliente =
                 new ApplicationServiceCliente(_serviceClienteMock.Object, _mapperMock.Object);
