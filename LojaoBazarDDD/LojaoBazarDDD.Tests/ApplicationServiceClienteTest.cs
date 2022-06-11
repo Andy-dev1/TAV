@@ -35,6 +35,8 @@ namespace LojaoBazarDDD.Tests
         //Adicionar produtos
         private Mock<IServiceItensCarrinho> _serviceItensCarrinhoMock;
 
+        
+
         [Fact]
         public void CarrinhoNaoExiste()
         {
@@ -46,8 +48,6 @@ namespace LojaoBazarDDD.Tests
             bool naoExisteCarrinho = _carrinhoChekcerMock.Object.ExisteCarrinho(0);
 
             Assert.False(naoExisteCarrinho);
-
-            
 
         }
 
@@ -89,33 +89,82 @@ namespace LojaoBazarDDD.Tests
             _serviceItensCarrinhoMock = new Mock<IServiceItensCarrinho>();
             _mapperMock = new Mock<IMapper>();
             //Arrange
-            const int id = 10;
+            
 
-            var itensCarrinho = _fixture.Build<ItensCarrinho>()
-                .With(c => c.Id, id)
-                
+           
+
+            var itensCarrinhoDto1 = _fixture.Build<ItensCarrinhoDto>()
+                .With(c => c.Id, 1)
+                .With(c => c.idCarrinho, 0)
+                .With(c => c.quantidade, 1)
+                .With(c => c.idProduto, 10)
+                .With(c => c.nomeProduto, "alho")
                 .Create();
 
-            var itensCarrinhoDto = _fixture.Build<ItensCarrinhoDto>()
-                .With(c => c.Id, id)
-                
+            
+
+            var itensCarrinhoDto2 = _fixture.Build<ItensCarrinhoDto>()
+                .With(c => c.Id, 2)
+                .With(c => c.idCarrinho, 0)
+                .With(c => c.quantidade, 4)
+                .With(c => c.idProduto, 3)
+                .With(c => c.nomeProduto, "feijao")
                 .Create();
 
-            _serviceItensCarrinhoMock.Setup(x => x.PegarPorID(id)).Returns(itensCarrinho);
-            _mapperMock.Setup(x => x.Map<ItensCarrinhoDto>(itensCarrinho)).Returns(itensCarrinhoDto);
+            
+            
 
             var applicationServiceItensCarrinho =
                 new ApplicationServiceItensCarrinho(_serviceItensCarrinhoMock.Object, _mapperMock.Object);
 
             //Act
-            var result = applicationServiceItensCarrinho.PegarPorId(id);
-
+            var result1 = applicationServiceItensCarrinho.Adicionar(itensCarrinhoDto1);
+            var result2 = applicationServiceItensCarrinho.Adicionar(itensCarrinhoDto2);
             //Assert
-            Assert.NotNull(result);
-            //Assert.Equal("teste1@teste.com.br", result.Email);
-            Assert.Equal(10, result.Id);
+
+            //Assert.true
+            Assert.True(result1);
+            Assert.True(result2);
             _serviceItensCarrinhoMock.VerifyAll();
             _mapperMock.VerifyAll();
+        }
+
+        [Fact]
+        public void SimularECalcularFrete()
+        {
+            Mock<ICorreioService> mock = new Mock<ICorreioService>();
+            mock.Setup(m => m.CalculaFrete()).Returns(10.50);
+            Frete frete = new Frete(mock.Object)
+            {
+                Cep = 22224232,
+                PesoDosProdutos = 9
+            };
+
+            // Act
+            double resultado = frete.CalcularFrete();
+
+            // Assert
+            Assert.Equal(10.50, resultado);
+        }
+
+        [Fact]
+        public void FecharPedido()
+        {
+            //Verificar session
+            _fixture = new Fixture();
+            _serviceClienteMock = new Mock<IServiceCliente>();
+            
+
+            var cliente = _fixture.Build<Cliente>()
+                .With(c => c.Id, 0)
+                .With(c => c.Email, "teste1@teste.com.br")
+                .Create();
+
+
+            var aplicationServiceClienteVerify = new ApplicationServiceClienteVerify();
+            var result = aplicationServiceClienteVerify.ClienteSessionVerify(cliente.Id);
+
+            Assert.True(result);
         }
 
         [Fact]
@@ -147,7 +196,7 @@ namespace LojaoBazarDDD.Tests
         }
 
         [Fact]
-        public void AplicationServiceClienteGetBYIdDeveRetornarCliente()
+        public void AplicationServiceCadastrarePegarClienteporId()
         {
             _fixture = new Fixture();
             _serviceClienteMock = new Mock<IServiceCliente>();
