@@ -34,8 +34,10 @@ namespace LojaoBazarDDD.Tests
 
         //Adicionar produtos
         private Mock<IServiceItensCarrinho> _serviceItensCarrinhoMock;
-
+        //Fechar pagamento
+        private Mock<IServicePedido> _servicePedidoMock;
         
+
 
         [Fact]
         public void CarrinhoNaoExiste()
@@ -165,6 +167,37 @@ namespace LojaoBazarDDD.Tests
             var result = aplicationServiceClienteVerify.ClienteSessionVerify(cliente.Id);
 
             Assert.True(result);
+            //Calcula Total Frete
+            var applicationCalculaTotalFrete=new ApplicationCalculaTotalFrete();
+
+            Mock<ICorreioService> mock = new Mock<ICorreioService>();
+            mock.Setup(m => m.CalculaFrete()).Returns(15.50);
+            Frete frete = new Frete(mock.Object)
+            {
+                Cep = 22224232,
+                PesoDosProdutos = 11
+            };
+
+            // Act
+            
+            double resultado=applicationCalculaTotalFrete.CalculaValorTotalFrete(frete);
+            // Assert
+            Assert.Equal(15.50, resultado);
+
+            //Adiciona pedido
+
+            _fixture = new Fixture();
+           
+
+            var pedido = _fixture.Build<Pedidos>()
+                .With(c => c.Id, 20)
+                .With(c=>c.valorTotal,100)
+                .Create();
+
+            //Calcula valor total + Frete
+            var applicationCalculaTotalMaisFrete = new ApplicationCalculaTotalMaisFrete();
+            var TotalMaisFrete=applicationCalculaTotalMaisFrete.CalcularValorTotalMaisFrete(resultado, pedido.valorTotal);
+            Assert.Equal(115.50, TotalMaisFrete);
         }
 
         [Fact]
@@ -187,12 +220,22 @@ namespace LojaoBazarDDD.Tests
 
             //Assert
             Assert.NotNull(result);
-            //Assert.AreEqual(5, result.Count());
+            
 
             Assert.Equal(5, result.Count());
             _serviceClienteMock.VerifyAll();
             _mapperMock.VerifyAll();
 
+        }
+
+        [Fact]
+        public void FazerPagamento()
+        {
+            Mock<IApiMercadoPago> mock = new Mock<IApiMercadoPago>();
+            var aplicaionFazerPagamento = new ApplicationFazerPagamento();
+            mock.Setup(x => x.retornaValorAtual("B7EAF50395C224787C40535BE2E8EBFEEDB86304382551E213D1216A8CBADF96")).Returns(2000);
+            var result=aplicaionFazerPagamento.EfetuarPagamento(mock.Object.retornaValorAtual("B7EAF50395C224787C40535BE2E8EBFEEDB86304382551E213D1216A8CBADF96"), 1480);
+            Assert.True(result);
         }
 
         [Fact]
@@ -206,12 +249,20 @@ namespace LojaoBazarDDD.Tests
 
             var cliente = _fixture.Build<Cliente>()
                 .With(c => c.Id, id)
-                .With(c => c.Email, "teste1@teste.com.br")
+                .With(c=>c.CPF,"123123123123")
+                .With(c => c.Nome, "Josue")
+                .With(c=>c.Sobrenome,"Xavier")
+                .With(c => c.Endereco, "Onde Judas perdeu as botas, 300 ap 9")
+                .With(c => c.Email, "josue@teste.com.br")
                 .Create();
 
             var clienteDto = _fixture.Build<ClienteDto>()
                 .With(c => c.Id, id)
-                .With(c => c.Email, "teste1@teste.com.br")
+                .With(c => c.CPF, "123123123123")
+                .With(c=>c.Nome,"Josue")
+                .With(c => c.Sobrenome, "Xavier")
+                .With(c=>c.Endereco,"Onde Judas perdeu as botas, 300 ap 9")
+                .With(c => c.Email, "josue@teste.com.br")
                 .Create();
 
             _serviceClienteMock.Setup(x => x.PegarPorID(id)).Returns(cliente);
@@ -225,7 +276,7 @@ namespace LojaoBazarDDD.Tests
 
             //Assert
             Assert.NotNull(result);
-            Assert.Equal("teste1@teste.com.br", result.Email);
+            Assert.Equal("josue@teste.com.br", result.Email);
             Assert.Equal(10, result.Id);
             _serviceClienteMock.VerifyAll();
             _mapperMock.VerifyAll();

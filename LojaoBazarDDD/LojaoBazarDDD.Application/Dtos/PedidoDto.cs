@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LojaoBazarDDD.Domain.Entidades
+namespace LojaoBazarDDD.Application.Dtos
 {
-    public class Pedidos : Base
+    public class PedidoDto
     {
+        public int Id { get; set; }
         public int idCliente { get; set; }
         public double valorTotal { get; set; }
         public int idEntrega { get; set; }
-       
-       
     }
 }

@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LojaoBazarDDD.Domain.Entidades
+namespace LojaoBazarDDD.Domain.Interfaces
 {
-    public class Endereco:Base
+    public interface IApiMercadoPago
     {
-        public string CEP { get; set; }
-        
+        double retornaValorAtual(string clienteToken);
     }
 }

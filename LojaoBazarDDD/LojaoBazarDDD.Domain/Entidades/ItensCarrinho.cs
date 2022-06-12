@@ -14,9 +14,6 @@ namespace LojaoBazarDDD.Domain.Entidades
         public double preco { get; set; }
         public string nomeProduto { get; set; }
 
-        /*public double SimularFrete()
-        {
-            return 0;
-        }*/
+        
     }
 }
