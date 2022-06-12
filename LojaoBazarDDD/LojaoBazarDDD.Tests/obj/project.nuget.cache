@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HtXxil4+i+d/aY7ljCXT1QjZrHXu2JQVeUwOaiYUMHRJ0dP9IjUoZRfzX5KShQ5hMGrAmoao9fTHP5pRIuJDQA==",
+  "dgSpecHash": "2idn22AjTn2JAZTrYCLfBZOI95VBXtgy3a6FDLPw3yRyiTeZEu1e8JcWfLCOAxc9jnK9QMoa/6qR/6molYzeDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Tests\\LojaoBazarDDD.Tests.csproj",
+  "projectFilePath": "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Tests\\LojaoBazarDDD.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pichau\\.nuget\\packages\\autofixture\\4.17.0\\autofixture.4.17.0.nupkg.sha512",
     "C:\\Users\\Pichau\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",

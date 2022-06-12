@@ -15,3 +15,20 @@ C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarD
 C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\refint\LojaoBazarDDD.Application.dll
 C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\LojaoBazarDDD.Application.pdb
 C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\ref\LojaoBazarDDD.Application.dll
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Application\bin\Debug\net5.0\LojaoBazarDDD.Application.deps.json
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Application\bin\Debug\net5.0\LojaoBazarDDD.Application.dll
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Application\bin\Debug\net5.0\LojaoBazarDDD.Application.pdb
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Application\bin\Debug\net5.0\LojaoBazarDDD.Domain.Core.dll
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Application\bin\Debug\net5.0\LojaoBazarDDD.Domain.dll
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Application\bin\Debug\net5.0\LojaoBazarDDD.Domain.Core.pdb
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Application\bin\Debug\net5.0\LojaoBazarDDD.Domain.pdb
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\LojaoBazarDDD.Application.csproj.AssemblyReference.cache
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\LojaoBazarDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\LojaoBazarDDD.Application.AssemblyInfoInputs.cache
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\LojaoBazarDDD.Application.AssemblyInfo.cs
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\LojaoBazarDDD.Application.csproj.CoreCompileInputs.cache
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\LojaoBazarDDD.Application.csproj.CopyComplete
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\LojaoBazarDDD.Application.dll
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\refint\LojaoBazarDDD.Application.dll
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\LojaoBazarDDD.Application.pdb
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Application\obj\Debug\net5.0\ref\LojaoBazarDDD.Application.dll

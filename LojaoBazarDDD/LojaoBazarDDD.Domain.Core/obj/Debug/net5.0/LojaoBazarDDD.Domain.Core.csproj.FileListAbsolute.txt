@@ -13,3 +13,18 @@ C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarD
 C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Domain.Core\obj\Debug\net5.0\refint\LojaoBazarDDD.Domain.Core.dll
 C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Domain.Core\obj\Debug\net5.0\LojaoBazarDDD.Domain.Core.pdb
 C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Domain.Core\obj\Debug\net5.0\ref\LojaoBazarDDD.Domain.Core.dll
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain.Core\bin\Debug\net5.0\LojaoBazarDDD.Domain.Core.deps.json
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain.Core\bin\Debug\net5.0\LojaoBazarDDD.Domain.Core.dll
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain.Core\bin\Debug\net5.0\LojaoBazarDDD.Domain.Core.pdb
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain.Core\bin\Debug\net5.0\LojaoBazarDDD.Domain.dll
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain.Core\bin\Debug\net5.0\LojaoBazarDDD.Domain.pdb
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain.Core\obj\Debug\net5.0\LojaoBazarDDD.Domain.Core.csproj.AssemblyReference.cache
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain.Core\obj\Debug\net5.0\LojaoBazarDDD.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain.Core\obj\Debug\net5.0\LojaoBazarDDD.Domain.Core.AssemblyInfoInputs.cache
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain.Core\obj\Debug\net5.0\LojaoBazarDDD.Domain.Core.AssemblyInfo.cs
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain.Core\obj\Debug\net5.0\LojaoBazarDDD.Domain.Core.csproj.CoreCompileInputs.cache
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain.Core\obj\Debug\net5.0\LojaoBazarDDD.Domain.Core.csproj.CopyComplete
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain.Core\obj\Debug\net5.0\LojaoBazarDDD.Domain.Core.dll
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain.Core\obj\Debug\net5.0\refint\LojaoBazarDDD.Domain.Core.dll
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain.Core\obj\Debug\net5.0\LojaoBazarDDD.Domain.Core.pdb
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain.Core\obj\Debug\net5.0\ref\LojaoBazarDDD.Domain.Core.dll

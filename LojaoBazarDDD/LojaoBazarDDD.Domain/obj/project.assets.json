@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Domain\\LojaoBazarDDD.Domain.csproj",
+      "projectUniqueName": "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Domain\\LojaoBazarDDD.Domain.csproj",
       "projectName": "LojaoBazarDDD.Domain",
-      "projectPath": "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Domain\\LojaoBazarDDD.Domain.csproj",
+      "projectPath": "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Domain\\LojaoBazarDDD.Domain.csproj",
       "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Domain\\obj\\",
+      "outputPath": "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",

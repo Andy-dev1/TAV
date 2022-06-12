@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Domain.Core\\LojaoBazarDDD.Domain.Core.csproj": {}
+    "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Domain.Core\\LojaoBazarDDD.Domain.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Domain.Core\\LojaoBazarDDD.Domain.Core.csproj": {
+    "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Domain.Core\\LojaoBazarDDD.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Domain.Core\\LojaoBazarDDD.Domain.Core.csproj",
+        "projectUniqueName": "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Domain.Core\\LojaoBazarDDD.Domain.Core.csproj",
         "projectName": "LojaoBazarDDD.Domain.Core",
-        "projectPath": "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Domain.Core\\LojaoBazarDDD.Domain.Core.csproj",
+        "projectPath": "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Domain.Core\\LojaoBazarDDD.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Domain.Core\\obj\\",
+        "outputPath": "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Domain\\LojaoBazarDDD.Domain.csproj": {
-                "projectPath": "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Domain\\LojaoBazarDDD.Domain.csproj"
+              "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Domain\\LojaoBazarDDD.Domain.csproj": {
+                "projectPath": "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Domain\\LojaoBazarDDD.Domain.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Domain\\LojaoBazarDDD.Domain.csproj": {
+    "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Domain\\LojaoBazarDDD.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Domain\\LojaoBazarDDD.Domain.csproj",
+        "projectUniqueName": "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Domain\\LojaoBazarDDD.Domain.csproj",
         "projectName": "LojaoBazarDDD.Domain",
-        "projectPath": "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Domain\\LojaoBazarDDD.Domain.csproj",
+        "projectPath": "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Domain\\LojaoBazarDDD.Domain.csproj",
         "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Domain\\obj\\",
+        "outputPath": "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",

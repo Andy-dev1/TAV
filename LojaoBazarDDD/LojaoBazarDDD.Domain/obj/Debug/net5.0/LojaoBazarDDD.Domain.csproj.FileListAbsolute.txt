@@ -10,3 +10,15 @@ C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarD
 C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Domain\obj\Debug\net5.0\refint\LojaoBazarDDD.Domain.dll
 C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Domain\obj\Debug\net5.0\LojaoBazarDDD.Domain.pdb
 C:\Users\Pichau\Desktop\AV1 5TAV\AV1v0\LojaoBazarDDDV2\LojaoBazarDDD\LojaoBazarDDD.Domain\obj\Debug\net5.0\ref\LojaoBazarDDD.Domain.dll
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain\bin\Debug\net5.0\LojaoBazarDDD.Domain.deps.json
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain\bin\Debug\net5.0\LojaoBazarDDD.Domain.dll
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain\bin\Debug\net5.0\LojaoBazarDDD.Domain.pdb
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain\obj\Debug\net5.0\LojaoBazarDDD.Domain.csproj.AssemblyReference.cache
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain\obj\Debug\net5.0\LojaoBazarDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain\obj\Debug\net5.0\LojaoBazarDDD.Domain.AssemblyInfoInputs.cache
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain\obj\Debug\net5.0\LojaoBazarDDD.Domain.AssemblyInfo.cs
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain\obj\Debug\net5.0\LojaoBazarDDD.Domain.csproj.CoreCompileInputs.cache
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain\obj\Debug\net5.0\LojaoBazarDDD.Domain.dll
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain\obj\Debug\net5.0\refint\LojaoBazarDDD.Domain.dll
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain\obj\Debug\net5.0\LojaoBazarDDD.Domain.pdb
+D:\VsCommunity\TAV\LojaoBazarDDD\LojaoBazarDDD.Domain\obj\Debug\net5.0\ref\LojaoBazarDDD.Domain.dll

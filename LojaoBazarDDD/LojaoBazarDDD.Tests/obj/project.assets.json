@@ -6628,11 +6628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Tests\\LojaoBazarDDD.Tests.csproj",
+      "projectUniqueName": "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Tests\\LojaoBazarDDD.Tests.csproj",
       "projectName": "LojaoBazarDDD.Tests",
-      "projectPath": "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Tests\\LojaoBazarDDD.Tests.csproj",
+      "projectPath": "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Tests\\LojaoBazarDDD.Tests.csproj",
       "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Tests\\obj\\",
+      "outputPath": "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6649,11 +6649,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Application\\LojaoBazarDDD.Application.csproj": {
-              "projectPath": "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Application\\LojaoBazarDDD.Application.csproj"
+            "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Application\\LojaoBazarDDD.Application.csproj": {
+              "projectPath": "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Application\\LojaoBazarDDD.Application.csproj"
             },
-            "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Domain.Core\\LojaoBazarDDD.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\Pichau\\Desktop\\AV1 5TAV\\AV1v0\\LojaoBazarDDDV2\\LojaoBazarDDD\\LojaoBazarDDD.Domain.Core\\LojaoBazarDDD.Domain.Core.csproj"
+            "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Domain.Core\\LojaoBazarDDD.Domain.Core.csproj": {
+              "projectPath": "D:\\VsCommunity\\TAV\\LojaoBazarDDD\\LojaoBazarDDD.Domain.Core\\LojaoBazarDDD.Domain.Core.csproj"
             }
           }
         }
