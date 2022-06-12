@@ -18,7 +18,7 @@ using LojaoBazarDDD.Domain.Core.Services;
 namespace LojaoBazarDDD.Tests
 {
 
-    public class ApplicationServiceClienteTest
+    public class ApplicationServiceTest
     {
 
         private static Fixture _fixture;
