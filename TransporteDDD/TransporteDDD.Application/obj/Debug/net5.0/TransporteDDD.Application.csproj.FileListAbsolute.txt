@@ -1,0 +1,17 @@
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Application\bin\Debug\net5.0\TransporteDDD.Application.deps.json
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Application\bin\Debug\net5.0\TransporteDDD.Application.dll
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Application\bin\Debug\net5.0\TransporteDDD.Application.pdb
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Application\bin\Debug\net5.0\TransporteDDD.Domain.Core.dll
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Application\bin\Debug\net5.0\TransporteDDD.Domain.dll
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Application\bin\Debug\net5.0\TransporteDDD.Domain.Core.pdb
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Application\bin\Debug\net5.0\TransporteDDD.Domain.pdb
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Application\obj\Debug\net5.0\TransporteDDD.Application.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Application\obj\Debug\net5.0\TransporteDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Application\obj\Debug\net5.0\TransporteDDD.Application.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Application\obj\Debug\net5.0\TransporteDDD.Application.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Application\obj\Debug\net5.0\TransporteDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Application\obj\Debug\net5.0\TransporteDDD.Application.csproj.CopyComplete
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Application\obj\Debug\net5.0\TransporteDDD.Application.dll
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Application\obj\Debug\net5.0\refint\TransporteDDD.Application.dll
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Application\obj\Debug\net5.0\TransporteDDD.Application.pdb
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Application\obj\Debug\net5.0\ref\TransporteDDD.Application.dll

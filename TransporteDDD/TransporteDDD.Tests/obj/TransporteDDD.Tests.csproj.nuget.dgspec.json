@@ -1,0 +1,279 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Tests\\TransporteDDD.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Application\\TransporteDDD.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Application\\TransporteDDD.Application.csproj",
+        "projectName": "TransporteDDD.Application",
+        "projectPath": "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Application\\TransporteDDD.Application.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Domain.Core\\TransporteDDD.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Domain.Core\\TransporteDDD.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Domain.Core\\TransporteDDD.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Domain.Core\\TransporteDDD.Domain.Core.csproj",
+        "projectName": "TransporteDDD.Domain.Core",
+        "projectPath": "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Domain.Core\\TransporteDDD.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Domain\\TransporteDDD.Domain.csproj": {
+                "projectPath": "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Domain\\TransporteDDD.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Domain\\TransporteDDD.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Domain\\TransporteDDD.Domain.csproj",
+        "projectName": "TransporteDDD.Domain",
+        "projectPath": "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Domain\\TransporteDDD.Domain.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Tests\\TransporteDDD.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Tests\\TransporteDDD.Tests.csproj",
+        "projectName": "TransporteDDD.Tests",
+        "projectPath": "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Tests\\TransporteDDD.Tests.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Application\\TransporteDDD.Application.csproj": {
+                "projectPath": "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Application\\TransporteDDD.Application.csproj"
+              },
+              "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Domain.Core\\TransporteDDD.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Domain.Core\\TransporteDDD.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

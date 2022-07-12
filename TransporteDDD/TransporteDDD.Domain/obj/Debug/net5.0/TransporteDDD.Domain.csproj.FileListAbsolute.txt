@@ -1,0 +1,12 @@
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Domain\bin\Debug\net5.0\TransporteDDD.Domain.deps.json
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Domain\bin\Debug\net5.0\TransporteDDD.Domain.dll
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Domain\bin\Debug\net5.0\TransporteDDD.Domain.pdb
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Domain\obj\Debug\net5.0\TransporteDDD.Domain.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Domain\obj\Debug\net5.0\TransporteDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Domain\obj\Debug\net5.0\TransporteDDD.Domain.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Domain\obj\Debug\net5.0\TransporteDDD.Domain.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Domain\obj\Debug\net5.0\TransporteDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Domain\obj\Debug\net5.0\TransporteDDD.Domain.dll
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Domain\obj\Debug\net5.0\refint\TransporteDDD.Domain.dll
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Domain\obj\Debug\net5.0\TransporteDDD.Domain.pdb
+C:\Users\Pichau\Desktop\AV25TAV\TransporteDDD\TransporteDDD.Domain\obj\Debug\net5.0\ref\TransporteDDD.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2n5GOcxPlYfWIOKu1tUoA3vQAihU/o6b1W0l3+/Id2szv35QcGOWZElbpxAuJkfdvNYmSoFb+ZCKjPKgNRbvcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\AV25TAV\\TransporteDDD\\TransporteDDD.Application\\TransporteDDD.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
