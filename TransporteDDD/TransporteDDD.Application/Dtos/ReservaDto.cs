@@ -17,5 +17,7 @@ namespace TransporteDDD.Application.Dtos
         public int idOnibus { get; set; }
 
         public int lugar { get; set; }
+
+        public int valorTotal { get; set; }
     }
 }

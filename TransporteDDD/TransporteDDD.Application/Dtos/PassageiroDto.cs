@@ -14,5 +14,6 @@ namespace TransporteDDD.Application.Dtos
         public string Email { get; set; }
         public string CPF { get; set; }
         public string Endereco { get; set; }
+        public double ValorAtual { get; set; }
     }
 }

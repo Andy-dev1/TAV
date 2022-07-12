@@ -77,10 +77,10 @@ namespace TransporteDDD.Tests
             _servicePassageiroMock.Setup(x => x.PegarTodos()).Returns(passageiros);
             _mapperMock.Setup(x => x.Map<IEnumerable<PassageiroDto>>(passageiros)).Returns(passageirosDto);
 
-            var applicationServiceCliente = new ApplicationServicePassageiro(_servicePassageiroMock.Object, _mapperMock.Object);
+            var applicationServicePassageiro = new ApplicationServicePassageiro(_servicePassageiroMock.Object, _mapperMock.Object);
 
             //Act
-            var result = applicationServiceCliente.PegarTodos();
+            var result = applicationServicePassageiro.PegarTodos();
 
             //Assert
             Assert.NotNull(result);
@@ -90,6 +90,47 @@ namespace TransporteDDD.Tests
             _servicePassageiroMock.VerifyAll();
             _mapperMock.VerifyAll();
 
+        }
+
+        [Fact]
+        public void FecharReserva()
+        {
+            //Verificar session
+            _fixture = new Fixture();
+            _servicePassageiroMock = new Mock<IServicePassageiro>();
+
+
+            var passageiro = _fixture.Build<Passageiro>()
+                .With(c => c.Id, 0)
+                .With(c => c.Email, "teste1@teste.com.br")
+                .With(c=>c.ValorAtual,200)
+                .Create();
+
+
+            var aplicationServicePassageiroVerify = new ApplicationServicePassageiroVerify();
+            var result = aplicationServicePassageiroVerify.PassageiroSessionVerify(passageiro.Id);
+
+            Assert.True(result);
+
+            //Rota
+            
+            //Adiciona reserva
+
+            _fixture = new Fixture();
+
+
+            var reserva = _fixture.Build<Reserva>()
+                .With(c => c.Id, 20)
+                .With(c => c.valorTotal, 100)
+                .With(c=>c.idOnibus,11)
+                .With(c=>c.IdPassageiro,0)
+                .With(c=>c.DataReserva, new DateTime(2008, 5, 1, 8, 30, 52))
+                .Create();
+
+            //Valida credito para reserva
+            var applicationCalculaTotal = new ApplicationCalculaTotal();
+            var ValidaCredito = applicationCalculaTotal.CalculareValidarValorTotal(reserva.valorTotal, passageiro.ValorAtual);
+            Assert.True(ValidaCredito);
         }
     }
 }
