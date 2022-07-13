@@ -14,7 +14,7 @@ namespace TransporteDDD.Domain.Entidades
 
         public int idOnibus { get; set; }
 
-        public int lugar { get; set; }
+        public string lugar { get; set; }
 
         public int valorTotal { get; set; }
     }

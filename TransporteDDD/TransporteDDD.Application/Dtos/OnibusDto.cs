@@ -14,5 +14,6 @@ namespace TransporteDDD.Application.Dtos
         public string IdParadaFinal { get; set; }
         public string IdParadaAtual { get; set; }
         public int QntLugares { get; set; }
+        public string tipoOnibus { get; set; }
     }
 }

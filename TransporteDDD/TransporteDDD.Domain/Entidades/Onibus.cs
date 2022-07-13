@@ -14,5 +14,6 @@ namespace TransporteDDD.Domain.Entidades
         public string IdParadaAtual { get; set; }
         public int QntLugares { get; set; }
 
+        public string tipoOnibus { get; set; }
     }
 }
